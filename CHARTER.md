@@ -138,4 +138,3 @@ The full body of work specifying, explaining, and supporting the NIEM family of 
   - NIEM API
 - NIEM Brand
 - NIEM website
-- 
