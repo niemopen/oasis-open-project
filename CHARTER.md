@@ -121,27 +121,21 @@ FY 2024 – Initial NIEM OASIS Open Standards
 The full body of work specifying, explaining, and supporting the NIEM family of specifications under the current DoD?sponsored and GTRI coordinated efforts will be transitioned to OASIS, including:
 
 - Specifications for all NIEM releases
--- NIEM Naming and Design Rules (NDR)
-? NIEM JavaScript Object Notation (JSON)
-? NIEM Code Lists Specifications 
-? NIEM Conformance Targets Attribute Specification v3.0
-? NIEM Information Exchange Package Documentation (IEPD) Specification 
-? NIEM Conformance Specification
-? Metamodel
-? The Common Model Format (CMF)
-* All intellectual Property - The OASIS IPR policies for Open Projects will apply. This process allows projects to choose any one of several open-source licenses. With a mature regime governing NIEM for many years, we do not anticipate any conflicts around IPR.
-* NIEM Owned Tools
-• Information Exchange Lifecycle Tools
-• ConTesA
-• SSGT
-• Migration Tool
-• NIEM API
-* NIEM Brand
-* NIEM website 
-      
-
-
-
-
-
-
+  - NIEM Naming and Design Rules (NDR)
+  - NIEM JavaScript Object Notation (JSON)
+  - NIEM Code Lists Specifications 
+  - NIEM Conformance Targets Attribute Specification v3.0
+  - NIEM Information Exchange Package Documentation (IEPD) Specification 
+  - NIEM Conformance Specification
+  - Metamodel
+  - The Common Model Format (CMF)
+- All intellectual Property - The OASIS IPR policies for Open Projects will apply. This process allows projects to choose any one of several open-source licenses. With a mature regime governing NIEM for many years, we do not anticipate any conflicts around IPR.
+- NIEM Owned Tools
+  - Information Exchange Lifecycle Tools
+  - ConTesA
+  - SSGT
+  - Migration Tool
+  - NIEM API
+- NIEM Brand
+- NIEM website
+- 
