@@ -91,13 +91,15 @@ Examples include:
 ## 7. Repositories and Licenses
 
 - NIEM will operate under the following licenses: 
-  - Governance documents will be licensed under CC-BY 4.0
-  -Code will be licensed under Apache License Version 2.0
-* The project shall create a repository for the following:
-o Specifications will initially be forked from  http://niem.github.io/reference/specifications/
-o Releases – The latest release will be forked from http://niem.github.io/niem-releases/
-o Tools
+  - Governance documents will be licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+  - Code will be licensed under [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- The project shall create a repository for the following:
+  - Specifications will initially be forked from  http://niem.github.io/reference/specifications/
+  - Releases – The latest release will be forked from http://niem.github.io/niem-releases/
+- Tools
+ 
 Migration to an OASIS Open Project
+
 The migration from the legacy NIEM governance model to an OASIS Open Project will be a 24-month transition.  This transition will comprise of 2 phases with preparation and Formal Transition ending in FY 2024. During that period the following milestones are projected:
  
 FY 2022 – Preparation (Governance, Marketing & Development)
