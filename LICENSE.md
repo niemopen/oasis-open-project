@@ -1,6 +1,6 @@
 <img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
-## Specification documentation is licensed under Attribution 4.0 International
+## Documentation is licensed under Attribution 4.0 International
 
 Attribution 4.0 International 
 https://creativecommons.org/licenses/by/4.0/legalcode.txt 2017-11-05
