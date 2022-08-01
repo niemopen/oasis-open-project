@@ -1,20 +1,20 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="200">
+<img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
 # Governance
 
 ## Overview 
 
-The work of the [Open Project name] community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
+The work of the NIEMOpen Open Project community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
 
-The [Open Project name] works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
+NIEMOpen works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
 
-The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](link to pgb page). 
+The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process]([link to pgb page](https://www.oasis-open.org/policies-guidelines/open-projects-process/#governance-decisions-meetings). 
 
 ## Community Roles and Leadership
 
 All members of the community must abide by all relevant OASIS policies including the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to adhere to the Code of Conduct can have consequences including being held no longer eligible to participate in the work.
 
-* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate Contributor License Agreements [add appropriate link] and conform to the Open Project policies. 
+* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate Contributor License Agreements (CLAs) (Individual CLA at https://cla-assistant.io/niemopen/oasis-open-project and Entity CLA at https://www.oasis-open.org/open-projects/cla/entity-cla-20210630) and conform to the Open Project policies. 
 
 * *Technical Steering Committee (TSC)*: Contributors can be invited by the PGB to join the TSC. A TSC generally covers the work on a single project within the Open Project. The TSC has day-to-day oversight of the technical work on the project and works with project maintainers to make sure project's goals are met. The TSC also advises the PGB on the technical agenda such as when works are ready for approval and release. The PGB must publish process documentation outlining the requirements for joining and voting in the project’s TSC.
 
@@ -24,9 +24,9 @@ All members of the community must abide by all relevant OASIS policies including
 
 * *Project Governing Board (PGB)*: The PGB oversees the overall strategy and direction of the project as well as the work of the TSCs. The PGB has final approval via Special Majority Vote of project releases and Project Specifications and their submission to the members of OASIS as candidates for OASIS Standard.  
 
-   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](url to op rules).
+   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/).
 
-   The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
+   The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional non-voting PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
 
 * *Maintainers*: Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences. They demonstrate commitment to the success of the project and provide technical leadership that is broadly respected by the community. 
 
@@ -68,11 +68,11 @@ Note that the PGB may permit the formation or continuation of a TSC that does no
 
 The Project Governing Board may close a TSC at any time.
 
-An active TSC may only be closed with a Special Majority Vote of the PGB.
+An active TSC may only be closed with a [Special Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dSpecialMajority) of the PGB.
 
-Any TSC which is inactive may be closed with a Full Majority Vote.
+Any TSC which is inactive may be closed with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority).
 
-A TSC which has been inactive for at least 6 consecutive months may be closed with a Simple Majority Vote.
+A TSC which has been inactive for at least 6 consecutive months may be closed with a [Simple Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dSimpleMajority).
 
 Note that closing a TSC ends any conference calls and specification editing privileges but the project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations. 
 
