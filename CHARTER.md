@@ -1,6 +1,6 @@
 <img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
-# NIEM Charter
+# NIEMOpen Charter
 
 ## 1. Project Name
 
