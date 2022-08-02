@@ -1,10 +1,10 @@
-<img src="artwork/OASIS-Primary-Logo-Full-Colour.png" width="400">
+<img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
-# [Open Project name]
+# NIEMOpen OASIS Open Project
 
-[Open Project name] is an [OASIS Open Project](https://oasis-open-projects.org/) [purpose statement goes here.]
+NIEMOpen is an [OASIS Open Project](https://oasis-open-projects.org/) comprising a community-driven, standards-based approach to exchanging information.
 
-For more information on [Open Project short name], see the project's website at [url].
+For more information on NIEMOpen, see the project's website at www.niemopen.org.
 
 For more information on the goals of this effort, see the [project charter](./CHARTER.md). 
 
@@ -14,11 +14,11 @@ General questions about OASIS Open Projects may be directed to OASIS staff at pr
 
 In addition to this GitHub organization, this project also makes use of other assets. 
 
-- The [Open Project name] website is at [url to website]. The website contains news, announcements, and other information of interest about the project. 
+- The NIEMOpen website is at www.niemopen.org. The website contains news, announcements, and other information of interest about the project. 
 
-- [General purpose mailing list](url for list archive). To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](url to archive).
+- The [General purpose mailing list](https://lists.oasis-open-projects.org/g/niemopen). To subscribe, send an empty email message to niemopen+subscribe@lists.oasis-open-projects.org. Anyone interested is welcome to subscribe and send email to the list. The list maintains an [archive](https://lists.oasis-open-projects.org/g/niemopen/messages).
 
-- [Project Governing Board mailing list](url for list archive). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
+- The [Project Governing Board mailing list](url for list archive). This is the discussion list for use by the members of the PGB. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
 
 - [Technical Steering Committee mailing list](url for list archive). This is the discussion list for use by the members of the TSC. To subscribe, send an empty email message to [subscription email]. Anyone interested is welcome to subscribe read-only. The list maintains an [archive](url to archive).
 
