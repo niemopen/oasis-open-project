@@ -1,4 +1,4 @@
-<img src="NIEM-icon.png" width="200">
+<img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
 
 # NIEM Business Architecture Committee (NBAC) Governance
