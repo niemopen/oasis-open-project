@@ -1,11 +1,11 @@
 <img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
-# [open-project-name] Project Governing Board (PGB)
+# NIEM Open Project Governing Board
 
-The Project Governing Board sets overall strategic direction of the [open-project-name] project and formally approves released work products. 
+The Project Governing Board (PGB) sets overall strategic direction for NIEM Open and formally approves released work products. 
 
-PGB members include representatives of [[open-project-name] sponsor organizations](https://github.com/[org-url]/oasis-open-project/blob/main/SPONSORS.md) and representatives from the community at-large who serve on the Technical Steering Committee: 
-  
-- [name], [affiliation-linked-to-website], [github name?]
+PGB members include representatives of sponsor organizations and representatives from the community at-large who represent the Technical Steering Committee (TSC).  
 
-If you are interested in being part of the [open-project-name] PGB, contact communications@oasis-open.org.
+The members of the NIEM Open Governing Board are listed at [https://tbd.example.com](example.com)
+
+If you are interested in being part of the NIEM Open PGB, contact communications@oasis-open.org.
