@@ -1,14 +1,16 @@
+<img src="artwork/NIEM-NO-Logo-v5.png" width="200">
+
 # Getting Started as an Open Project Sponsor
  
-All organizations are welcome to support [project name goes here]. If you want to become a sponsor, or if you haven’t sent in your OCA Sponsor Agreement yet, [contact OASIS for help on that](mailto:communications@oasis-open.org). 
+All organizations are welcome to support NIEMOpen. If you want to become a sponsor, or if you haven’t sent in your OCA Sponsor Agreement yet, [contact OASIS for help on that](mailto:communications@oasis-open.org). 
 
 Here are some ways to ensure you get the most out of your sponsorship.
  
-## Get your logo added to the [project name goes here] website
-[Send us](member-services@oasis-open.org) your logo image, along with an associated URL. (A stacked or square version works better than horizontal.)  
+## Get your logo added to the NIEMOpen website
+[Send us](mailto:member-services@oasis-open.org) your logo image, along with an associated URL. (A stacked or square version works better than horizontal.)  
  
-## Be represented on the [project name goes here] Project Governing Board (PGB)
-Every [project name goes here] sponsor has the option to be represented on the project's PGB. General PGB responsibilities are described [here](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md#identifying-roles).
+## Be represented on the NIEMOpen Project Governing Board (PGB)
+Every NIEMOpen Sponsor has the option to be represented on the project's PGB. General PGB responsibilities are described [here](https://github.com/oasis-open-projects/documentation/blob/master/guides/getting-started-guide.md#identifying-roles).
  
 To be on the PGB, your organization will need to sign our [Entity Contributor License Agreement (e-CLA)](https://www-legacy.oasis-open.org/resources/projects/cla/projects-entity-cla).  Once you submit the e-CLA, let the [OASIS Project Administrator](mailto:project-admin@oasis-open.org) know who your rep will be, and we’ll add them to the PGB roster, email group, and #pgb Slack channel.
  
