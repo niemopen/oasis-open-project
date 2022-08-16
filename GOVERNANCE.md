@@ -1,158 +1,67 @@
 <img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
-# Governance
+# NIEM Open Governance
 
-## Overview 
+This document defines the NIEM Open community governance per [OASIS Open Projects Governance Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/project-governance.md). This document changes infrequently by the process defined below.
 
-The work of the NIEMOpen Open Project community is governed by this document, in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/). The purpose of this document is to describe how the community works together to achieve its technical goals.
+## Overview
 
-NIEMOpen works as much as possible by lazy consensus, especially within each Technical Steering Committee (TSC), as described under [Decision Making](#decision-making) below.  Each TSC is responsible for determining when it has lazy consensus, guided by the principal that those who show up and do the work make the decisions.
+NIEM Open, an OASIS Open Project, is committed to building an open, inclusive, productive and self-governing open source community. The community is governed by this document and in accordance with [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process) with the goal of defining how community should work together to achieve their goals.
 
-The Project Governing Board (PGB) works by lazy consensus as much as possible, however, because of its role in project governance, there are specific steps that require a formal vote. These are described in the [Open Projects Process](https://www.oasis-open.org/policies-guidelines/open-projects-process/#governance-decisions-meetings). 
+## Code Repositories
 
-## Community Roles and Leadership
+This document applies to all code repositories under the NIEM Open github organization that resides at [https://github.com/NIEM-OASIS-DRAFT](https://github.com/NIEM-OASIS-DRAFT).
 
-All members of the community must abide by all relevant OASIS policies including the [OASIS Open Projects Code of Conduct](./CODE-OF-CONDUCT.md). Failure to adhere to the Code of Conduct can have consequences including being held no longer eligible to participate in the work.
 
-* *Contributors*: People who have contributed to a project repository are contributors. Anyone can be a contributor, so long as they sign the appropriate Contributor License Agreements (CLAs) (Individual CLA at https://cla-assistant.io/niemopen/oasis-open-project and Entity CLA at https://www.oasis-open.org/open-projects/cla/entity-cla-20210630) and conform to the Open Project policies. 
+## Project Leadership
+NIEM Open is overseen by the following committees:
 
-* *Technical Steering Committee (TSC)*: Contributors can be invited by the PGB to join the TSC. A TSC generally covers the work on a single project within the Open Project. The TSC has day-to-day oversight of the technical work on the project and works with project maintainers to make sure project's goals are met. The TSC also advises the PGB on the technical agenda such as when works are ready for approval and release. The PGB must publish process documentation outlining the requirements for joining and voting in the project’s TSC.
+* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth. 
 
-   TSC members must have submitted an individual CLA, and if representing an organization, that organization must have signed and submitted an entity CLA as well.
+* **NIEM Business Architecture Committee (NBAC)**: A Technical Steering Committee directing the day-to-day activities of the project related to the NIEM Core data model.
 
-   Each TSC has a chair or two co-chairs appointed by the PGB. The chair of a TSC is responsible for coordinating the committee's meetings, reviews, etc. The chair(s) should have a firm understanding of the technology under the TSC's purview, and the [skills of a Technical Project Manager](https://www.jobhero.com/technical-program-manager-job-description/).
+* **NIEM Technical Architecture Committee (NTAC)**:  A Technical Steering Committee directing the day-to-day activities of the project related to NIEM's technical architecture.
 
-* *Project Governing Board (PGB)*: The PGB oversees the overall strategy and direction of the project as well as the work of the TSCs. The PGB has final approval via Special Majority Vote of project releases and Project Specifications and their submission to the members of OASIS as candidates for OASIS Standard.  
+A list of current PGB, NBAC, and NTAC members can be found at [https://tbd.example.com](example.com)
 
-   The PGB also follows and is responsible for upholding the [OASIS Open Projects Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process/).
+## Community Roles
 
-   The PGB is comprised of one representative from each Sponsoring organization, and a representative from each TSC (generally the chair). The PGB may create additional non-voting PGB member seats for expert representatives to be elected by the TSC or appointed by the PGB.
+In addition to the project leadership, important roles may be filled by community members:
 
-* *Maintainers*: Maintainers are recognized and trusted experts who serve to implement community goals and consensus design preferences. They demonstrate commitment to the success of the project and provide technical leadership that is broadly respected by the community. 
+**Contributors:** A Contributor is someone who has agreed to the Contributor License Agreement (CLA) and who makes regular contributions to one or more NIEM Open projects (including but not limited to activities such as documentation, code reviews, responding to issues, participation in proposal discussions, contributing code, etc.). Any person (whether or not an OASIS member or NIEM Open sponsor) may participate in the NIEM Open as a Contributor. The role of contributor is furthermore defined in the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process#participants-contributors).
 
-   At least one Maintainer must be identified by the PGB at the start of the project. In cooperation with the community and the initial Maintainers, the Technical Steering Committee may recommend additional Maintainer(s) to the PGB.
+**Maintainers**: A Maintainer is someone who has agreed to the Contributor License Agreement (CLA) and has been selected by the TSC to oversee one or more components of an NIEM Open project, review code and pull requests, prepare releases, triage issues, and similar tasks. Maintainers and their requisite duties are managed by the TSC. Any person (whether or not an OASIS member or NIEM Open sponsor) may be appointed as a project Maintainer. The role of Maintainer is furthermore defined in the [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process#chairs-maintainers-technical-steering-committees-opMaintainers).
 
-   For more information on the role of maintainer, see the [OASIS Open Projects Maintainers' Guidelines](https://github.com/oasis-open-projects/documentation/blob/master/guides/open-projects-maintainers-guide.md)
+## Project Governing Board
 
-* *Editors*: Editors are appointed (or removed) by the relevant TSC. Any Contributor is eligible to be an Editor.
+### Composition
 
-   Editors are expected to be actively involved in discussion of Proposals and helping them reach the quality level required to reach Candidate stage, and more generally to actively maintain the overall quality of their TSC's specifications.
+The PGB must at all times have a chair or two co-chairs. The PGB chair or co-chairs are confirmed annually by the PGB itself via a call for nominations, and if required, a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB.
 
-   As defined in [Decision Making](#Decision-Making), Editors are empowered to interpret the "Lazy Consensus" of a TSC, subject to direction from the chairs to implement a formally declared decision.
+### Decisions
 
-## Starting and maintaining a Technical Steering Committee
+For most decisions, the PGB operates by [lazy consensus](https://community.apache.org/committers/lazyConsensus.html). In addition to the votes required by [OASIS Open Project Rules](https://www.oasis-open.org/policies-guidelines/open-projects-process), decisions on the following items require a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB:
 
-### Initial requirements
+* Any action or decision that may bind the NIEM Open project to commitments or obligations with any external party or entity, including but not limited to legal, financial, or intellectual property related commitments or obligations
+* Promoting work to an OASIS standards track
+* Starting or consuming a new project into the OCA
+* Endorsements, partnerships, or liaisons with other groups
+* Substantive changes to the Governance policies or documents
+* The TSC recall procedure
 
-To start a new TSC, there must be:
+## Technical Steering Committees
 
-* a request from at least three sponsoring organizations who commit to participate, and 
-* a named Chair and Co-Chair who have agreed to serve in the role
+* Governance of the NIEM Business Architecture Committee TSC can be found at [GOVERNANCE-NBAC](GOVERNANCE-NBAC.md)
+* Governance of the NIEM Technical Architecture Committee TSC can be found at [GOVERNANCE-NTAC](GOVERNANCE-NTAC.md)
 
-Ideally, a proposed TSC will have at least 5 initial participants.
+### Recall Procedure
 
-### Maintenance requirements
+Any community member may submit a request for recall of a TSC chair to the PGB at any time by submitting the request and sufficient justification to the PGB chair or co-chairs. Such requests shall be held in confidence by the PGB chair or co-chairs. In the event of receipt of such a request, the chair or co-chairs shall schedule the recall as an item for discussion at the next PGB meeting, which shall be held no later than 30 days after the receipt of the request. After subsequent discussion, the recall shall be decided upon by a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB. In the event of a recall vote passing, the TSC chair shall at that time be considered immediately recalled and be relieved of all responsibilities conferred via the position.
 
-To be considered _active_, a TSC must satisfy the following heartbeat requirements:
+## Incubation Process
 
-* at least 3 active participants representing at least 2 different companies, and
-* at least 1 commit per month in one repo
-
-Any TSC failing to meet one or more of the above heartbeat requirements is considered _inactive_.
-
-A TSC considered inactive can resume activity at any time. The project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations. 
-
-Note that the PGB may permit the formation or continuation of a TSC that does not meet the above requirements.
-
-### Closing a TSC
-
-The Project Governing Board may close a TSC at any time.
-
-An active TSC may only be closed with a [Special Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dSpecialMajority) of the PGB.
-
-Any TSC which is inactive may be closed with a [Full Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority).
-
-A TSC which has been inactive for at least 6 consecutive months may be closed with a [Simple Majority Vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22/#dSimpleMajority).
-
-Note that closing a TSC ends any conference calls and specification editing privileges but the project assets produced by the TSC will remain publicly available to meet OASIS's archival persistence obligations. 
-
-## Decision Making
-
-Everyday TSC decisions will be reached by [lazy consensus](https://communitymgt.fandom.com/wiki/Lazy_consensus). Editors are empowered to implement the consensus of a TSC as they see it. The TSC chair is empowered to direct the Editor(s) to make a change reflecting a decision of the TSC.
-
-If the chairs of a TSC determine that consensus is not possible, then the TSC will not publish any output. 
-
-Any TSC lazy consensus decision can be overturned by a 2/3 majority vote of the PGB at the request of a TSC member. However, the PGB is not required to take up the request.
-
-The PGB is unlikely to overturn a decision based on a single objection from a contributor who has barely participated, or from an apparent "[branch-stacking](https://en.wikipedia.org/wiki/Branch_stacking)" (aka Room Packing) exercise. 
-
-Lazy consensus does not apply to certain decisions of the PGB, as defined elsewhere in this document and in the Open Projects Process.
-
-### Lazy Consensus
-
-Out of respect for other contributors, major changes should be accompanied by a post on the email list as appropriate. Authors of proposals, Pull Requests, issues, etc. will give a time period of no less than seven (7) working days for feedback and comment, remaining cognizant of popular observed world holidays.
-
-Maintainers may comment or request additional time for review, but should remain cognizant of blocking progress and abstain from delaying progress unless absolutely needed. The expectation is that blocking progress is accompanied by a guarantee to review and respond to the relevant action(s) (proposals, PRs, issues, etc.) in short order.
-
-Lazy consensus does _not_ apply to some PGB decisions, including:
-
-* Appointing or Removing TSC chairs or PGB Members
-* Removing TSC Members
-* Moving a release or a specification draft to the OASIS standards track process. 
-
-## Proposal Process
-Large changes, including new features, should be introduced by a written proposal. This allows members of the community to weigh in on the concept (including the technical details), share their comments, ideas, and use cases, and offer to help. It also ensures that members are not duplicating work or inadvertently stepping on each other's toes by making large conflicting changes.
-
-The TSC's project roadmap is defined by accepted proposals. Each TSC accepts and develops proposals in a process patterned after the five development stages in the Ecma [TC39 process document](https://tc39.es/process-document/):
-
-* Strawman (a description of an idea)
-* Proposal (a formal request that it be considered for inclusion)
-* Draft (a "specification-shaped" version of the proposal to be considered for implementation)
-* Candidate (a "standard-ready" version for implementation testing before formal adoption)
-* Finished (stable, in the formally published release version)
-
-TSCs may tweak the process, and if they do so must record TSC-specific processes in a "Contributing.md" file in their project's main repository.
-
-### Creating a new proposal
-To make a feature request, document the problem and a sketch of the solution with others in the community and TSC.  One place to do this is in the respective OASIS TSC mailing list or Discourse.
-
-Your goal will be to convince others that your suggestion is a useful addition and recruit TSC members to help turn your request into a Proposal and shepherd it to Finished.
-
-### Proposal Lifecycle
-
-Each TSC can create their own lifecycle. One approach is to mark each proposal with labels to represent the status of the proposal:
-
-* **New**: Proposal is just created.
-* **Reviewing**: Proposal is under review and discussion.
-* **Accepted**: Proposal is reviewed and accepted (either by consensus or vote).
-* **Rejected**: Proposal is reviewed and rejected (either by consensus or vote).
-
-### Required conditions for acceptable complete specifications
-
-Each TSC specification will only be considered complete when:
-
-* It has appropriate documentation
-* It has a test suite for all normative statements in the specification
-
-## Contributor Obligations
-
-Contributors to any TSC project must abide by the [OASIS Open Projects IPR Policy](https://github.com/oasis-open-projects/documentation/blob/master/policy/clas-and-special-covenant.md) and to the applicable open source license listed in the LICENSE.md file. 
-
-All contributors are required to make these rights available by signing a [Contributor License Agreement (CLA)](<bot url>) and patent non-assertion covenant. If you have questions about these policies, please contact the [OASIS Project Administrator](project-admin@oasis-open.org). 
-
-All participants must also abide by the terms of the [OASIS Open Projects Code of Conduct](https://github.com/oasis-open-projects/documentation/blob/master/CODE_OF_CONDUCT.md).
+At this time, new projects may be accepted into NIEM Open at the sole discretion of the PGB.
 
 ## Updating Governance
 
-Substantive changes to this document may be made by a Special Majority Vote of the PGB. Proposed changes should be made as Pull Requests on this document. Votes should be cast as reviews - approve or request changes. 
-
-If a PR is 7 days old, and there are sufficient reviews that the next vote meets the requirements for approving a change, that voter can merge the PR.
-
-
-
-
-
-
-
-
-
+All substantive changes in Governance require a [full majority vote](https://www.oasis-open.org/policies-guidelines/oasis-defined-terms-2018-05-22#dFullMajority) of the PGB.
