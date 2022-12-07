@@ -10,13 +10,15 @@ NIEM Open, an OASIS Open Project, is committed to building an open, inclusive, p
 
 ## Code Repositories
 
-This document applies to all code repositories under the NIEM Open github organization that resides at [https://github.com/NIEM-OASIS-DRAFT](https://github.com/NIEM-OASIS-DRAFT).
-
+This document applies to all code repositories
+under the NIEM Open github organization that resides at
+[https://github.com/NIEM-OASIS-DRAFT](https://github.com/NIEM-OASIS-DRAFT).
+[https://github.com/niemopen](https://github.com/niemopen)
 
 ## Project Leadership
 NIEM Open is overseen by the following committees:
 
-* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth. 
+* **Project Governing Board (PGB)**: Group responsible for the overall lifecycle or business strategy of the project. Oversees activities such as events, marketing, partnerships, promotion, budget, and so forth.
 
 * **NIEM Business Architecture Committee (NBAC)**: A Technical Steering Committee directing the day-to-day activities of the project related to the NIEM Core data model.
 
