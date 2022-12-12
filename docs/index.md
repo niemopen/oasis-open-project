@@ -1,6 +1,6 @@
 <img src="artwork/NIEM-NO-Logo-v5.png" width="300">
 
-<h1>NIEMOpen OASIS Open Project Project Governing Board (PGB)</h1>
+<h1>NIEMOpen OASIS Open Project Governing Board (PGB)</h1>
 
 <p>The Project Governing Board sets overall strategic direction of the NIEMOpen project and formally approves released work products.</p> 
 
