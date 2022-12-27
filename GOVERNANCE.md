@@ -24,7 +24,8 @@ NIEM Open is overseen by the following committees:
 
 * **NIEM Technical Architecture Committee (NTAC)**:  A Technical Steering Committee directing the day-to-day activities of the project related to NIEM's technical architecture.
 
-A list of current PGB, NBAC, and NTAC members can be found at [https://tbd.example.com](example.com)
+A list of current PGB members can be found [here](https://niemopen.github.io/oasis-open-project/).
+NBAC, and NTAC members can be found at [https://tbd.example.com](example.com)
 
 ## Community Roles
 
