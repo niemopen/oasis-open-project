@@ -1,3 +1,5 @@
+![NIEM-NO-Logo-v5](https://user-images.githubusercontent.com/122040488/215883684-2e2ef34b-0126-4804-badf-04f37b064f6c.png)
+
 <img src="https://github.com/niemopen/oasis-open-project/blob/main/artwork/NIEM-NO-Logo-v5.png" width="300">
 
 <h1>NIEMOpen OASIS Open Project Governing Board (PGB)</h1>
