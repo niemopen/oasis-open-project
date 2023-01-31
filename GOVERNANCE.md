@@ -11,9 +11,7 @@ NIEM Open, an OASIS Open Project, is committed to building an open, inclusive, p
 ## Code Repositories
 
 This document applies to all code repositories
-under the NIEM Open github organization that resides at
-[https://github.com/NIEM-OASIS-DRAFT](https://github.com/NIEM-OASIS-DRAFT).
-[https://github.com/niemopen](https://github.com/niemopen)
+under the NIEM Open github organization that resides at [https://github.com/niemopen](https://github.com/niemopen).
 
 ## Project Leadership
 NIEM Open is overseen by the following committees:
