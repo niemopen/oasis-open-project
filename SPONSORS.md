@@ -13,3 +13,4 @@ OASIS Open and NIEM Open thank the following organizations who generously suppor
 * [US Department of Transportation](https://www.transportation.gov/)
 * [NAJIS (National Assoc. for Justice Information Systems)](https://www.najis.org/) (US)
 * [sFractal Consulting LLC](https://www.sfractal.com/)
+* [Commonwealth of Virginia - Office of Data Governance & Analytics](https://www.odga.virginia.gov/)
