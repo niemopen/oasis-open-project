@@ -138,6 +138,6 @@ The full body of work specifying, explaining, and supporting the NIEM family of 
   - Migration Tool functionality
   - NIEM API
   - MEP Builder Tool
-  - NIEM Brand
+- NIEM Brand
   - [NIEM.gov website](https://niem.gov)
   - [NIEMOpen.org website](https://niemopen.org)
