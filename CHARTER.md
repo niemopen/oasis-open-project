@@ -104,19 +104,19 @@ Examples include:
 
 The migration from the legacy NIEM governance model to an OASIS Open Project will be a 24-month transition.  This transition will comprise of 2 phases with preparation and Formal Transition ending in FY 2024. During that period the following milestones are projected:
  
-FY 2022 – Preparation (Governance, Marketing & Development)
+FY 2022 Preparation (Governance, Marketing & Development)
 - Draft Charter & Governance
 - Awareness Campaign
 - Domain Stewardship Transition Workshop
 - Project Governance Board Sponsorship
 - Marking & Development
-FY 2023 – Formal Transition (Shadow & Reverse Shadow)
+FY 2023 Formal Transition (Shadow & Reverse Shadow)
 - OASIS NIEM Committee Membership
 - Shadow NIEM OASIS PGB
 - Selected projects transferred
 - Intellectual capital transfer
 - Final ESC Turnover
-FY 2024 – Initial NIEM OASIS Open Standards
+FY 2024 Initial NIEM OASIS Open Standards
 
 ## 8. Initial Contributions from Existing Work
 
