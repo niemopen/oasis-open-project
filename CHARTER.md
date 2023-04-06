@@ -110,12 +110,14 @@ FY 2022 Preparation (Governance, Marketing & Development)
 - Domain Stewardship Transition Workshop
 - Project Governance Board Sponsorship
 - Marking & Development
+
 FY 2023 Formal Transition (Shadow & Reverse Shadow)
 - OASIS NIEM Committee Membership
 - Shadow NIEM OASIS PGB
 - Selected projects transferred
 - Intellectual capital transfer
 - Final ESC Turnover
+
 FY 2024 Initial NIEM OASIS Open Standards
 
 ## 8. Initial Contributions from Existing Work
