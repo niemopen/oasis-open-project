@@ -1,6 +1,6 @@
 <img src="artwork/NIEM-NO-Logo-v5.png" width="200">
 
-# NIEMOpen Charter
+# NIEM Charter
 
 ## 1. Project Name
 
@@ -103,7 +103,7 @@ Examples include:
 **Migration to an OASIS Open Project**
 
 The migration from the legacy NIEM governance model to an OASIS Open Project will be a 24-month transition.  This transition will comprise of 2 phases with preparation and Formal Transition ending in FY 2024. During that period the following milestones are projected:
- 
+
 FY 2022 Preparation (Governance, Marketing & Development)
 - Draft Charter & Governance
 - Awareness Campaign
