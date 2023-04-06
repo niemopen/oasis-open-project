@@ -115,29 +115,29 @@ FY 2023 Formal Transition (Shadow & Reverse Shadow)
 - Shadow NIEM OASIS PGB
 - Selected projects transferred
 - Intellectual capital transfer
-- Final ESC Turnover
+- Final ESC Turnover
 FY 2024 Initial NIEM OASIS Open Standards
 
 ## 8. Initial Contributions from Existing Work
 
 The full body of work specifying, explaining, and supporting the NIEM family of specifications under the current DoD‐sponsored and GTRI coordinated efforts will be transitioned to OASIS, including:
-− Specifications for all NIEM releases
-  − NIEM Naming and Design Rules (NDR)
-  − NIEM JavaScript Object Notation (JSON)
-  − NIEM Code Lists Specifications
-  − NIEM Conformance Targets Attribute Specification v3.0
-  − NIEM Information Exchange Package Documentation (IEPD) Specification
-  − NIEM Conformance Specification
-  − Metamodel
-  − The Common Model Format (CMF)
-− All intellectual Property - The [OASIS IPR policies for Open Projects](https://www.oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licenses) will apply. This process allows projects to choose any one of several open-source licenses. With a mature regime governing NIEM for many years, we do not anticipate any conflicts around IPR.
-− NIEM User Tools
-  − Information Exchange Lifecycle Tools
-  − ConTesA functionality
-  − SSGT functionality
-  − Migration Tool functionality
-  − NIEM API
-  − MEP Builder Tool
-  − NIEM Brand
-  − [NIEM.gov website](https://niem.gov)
-  − [NIEMOpen.org website](https://niemopen.org)
+- Specifications for all NIEM releases
+  - NIEM Naming and Design Rules (NDR)
+  - NIEM JavaScript Object Notation (JSON)
+  - NIEM Code Lists Specifications
+  - NIEM Conformance Targets Attribute Specification v3.0
+  - NIEM Information Exchange Package Documentation (IEPD) Specification
+  - NIEM Conformance Specification
+  - Metamodel
+  - The Common Model Format (CMF)
+- All intellectual Property - The [OASIS IPR policies for Open Projects](https://www.oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licenses) will apply. This process allows projects to choose any one of several open-source licenses. With a mature regime governing NIEM for many years, we do not anticipate any conflicts around IPR.
+- NIEM User Tools
+  - Information Exchange Lifecycle Tools
+  - ConTesA functionality
+  - SSGT functionality
+  - Migration Tool functionality
+  - NIEM API
+  - MEP Builder Tool
+  - NIEM Brand
+  - [NIEM.gov website](https://niem.gov)
+  - [NIEMOpen.org website](https://niemopen.org)
