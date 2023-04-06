@@ -4,23 +4,25 @@
 
 ## 1. Project Name
 
+NIEM
+
 ### 1.1 Full Name
 
-NIEMOpen
+NIEM
 
 ### 1.2 Familiar Name
 
-niemopen
+NIEM
 
 ## 2. Abstract
 
-NIEM, formally known as National Information Exchange Model, is a community-driven, standards-based approach to exchanging information. Diverse communities can collectively leverage NIEM to increase efficiencies and improve decision making. There are three different aspects to the value of NIEM: community interaction, a technical framework that helps define data structures, and a support framework that helps from an implementation perspective. 
+NIEM, formally known as National Information Exchange Model, is a community-driven, standards-based approach to exchanging information. Diverse communities can collectively leverage NIEM to increase efficiencies and improve decision making. There are three different aspects to the value of NIEM: community interaction, a technical framework that helps define data structures, and a support framework that helps from an implementation perspective.
 
 NIEM is described as a _framework_, because it is not just a reference architecture that provides a common data vocabulary for information exchanges, it includes several components to enable your implementation and achieve interoperability:
  
-- A common data model called NIEM core that provides data components for describing universal objects such as people, locations, activities, and organizations
-- More specialized business focused data models for more specialized use cases, called domains (examples including Cyber, Justice, Immigration, and Emergency Management). A NIEM domain represents both the governance and model content oriented around a community’s business needs.
-- A methodology for using and extending the building blocks that come from the common and domain-specific models to turn them into a complete information exchange, known as an information exchange package
+- A common data model called _NIEM core_ that provides data components for describing universal objects such as people, locations, activities, and organizations
+- More specialized business focused data models for more specialized use cases, called domains (examples including Cyber, Justice, Immigration, and Emergency Management). _A NIEM domain represents both the governance and model content oriented around a community’s business needs._
+- A methodology for using and extending the building blocks that come from the common and domain-specific models to turn them into a complete information exchange, known as an _information exchange package_
 - Free Tools to help develop, validate, document, and share the information exchange packages
 - A governance organization that provides training and support and oversees NIEM's evolution over time
 
@@ -30,23 +32,23 @@ NIEM is available to everyone. The NIEM community spans federal, state, local, t
 
 **Problem Statement**
 
-Information sharing involves the business processes, policies, procedures, architecture, and governance that support effective decision-making.  Organizations are often unable to effectively share information.  At the same time, there can be fundamental differences in the nature and understanding of information being shared between organizations. While sharing does occur today, it often occurs to a limited degree, or within stovepipe information systems.  With the abundance of data being produced and collected by organizations, there are still numerous opportunities for improved data sharing amongst relevant communities of interest (COIs).
+Information sharing involves the business processes, policies, procedures, architecture, and governance that support effective decision-making. Organizations are often unable to effectively share information. At the same time, there can be fundamental differences in the nature and understanding of information being shared between organizations. While sharing does occur today, it often occurs to a limited degree, or within stovepipe information systems. With the abundance of data being produced and collected by organizations, there are still numerous opportunities for improved data sharing amongst relevant communities of interest (COIs).
        
 **Proposed Solution**
 
-Current information collection and dissemination practices have not been planned as part of a unified global strategy but, rather, have evolved incrementally over time to meet specific one-off challenges as they have surfaced.  As a program, NIEM is designed to support the development and dissemination of enterprise-wide information exchange standards that enable organizations to share critical information effectively and efficiently. NIEM exchanges don’t require a particular database and can work with any adapter.  While NIEM provides the foundation, participants just need to agree on the definition and structure of the data in the exchange.
+Current information collection and dissemination practices have not been planned as part of a unified global strategy but, rather, have evolved incrementally over time to meet specific one-off challenges as they have surfaced. As a program, NIEM is designed to support the development and dissemination of enterprise-wide information exchange standards that enable organizations to share critical information effectively and efficiently. NIEM exchanges don’t require a particular database and can work with any adapter. While NIEM provides the foundation, participants just need to agree on the definition and structure of the data in the exchange.
 
 The NIEM framework enables information sharing by focusing on the syntax of information exchanges between organizations as part of their current or intended business practices. The NIEM exchange development methodology results in a common understanding across participating organizations to ensure data is formatted in a semantically consistent manner as it moves from system to system. The NIEM program provides the data model, managed processes, implementation tools, training, and technical assistance to enable commonly understood information exchanges. A fundamental advantage of NIEM as an electronic exchange standard is that it allows organizations to save time, money and resources, connect with each other, and focus on what matters most – solving problems, reducing risks, and advancing even the most complex missions.
 
-The NIEM program will work with stakeholders to advance the functionality of the NIEM framework, while also adding new domains and content as recommended and approved by the Project Governing Board (PGB). Domains are community-specific business areas that provide governance and content to the NIEM model.   As a multi-organization program with shared funding and staffing resources, the NIEM PGB shall carefully consider decisions that impact the level of domain support and governance required of its current and future partners.  The board will also address the interests and needs of all partners when making decisions, maximizing participation, adoption, and value across the broad NIEM user community.
+The NIEM program will work with stakeholders to advance the functionality of the NIEM framework, while also adding new domains and content as recommended and approved by the Project Governing Board (PGB). Domains are community-specific business areas that provide governance and content to the NIEM model. As a multi-organization program with shared funding and staffing resources, the NIEM PGB shall carefully consider decisions that impact the level of domain support and governance required of its current and future partners. The board will also address the interests and needs of all partners when making decisions, maximizing participation, adoption, and value across the broad NIEM user community.
 
 ## 4. Business Benefits
 
-NIEM enables information sharing by focusing on information exchanges between organizations.  NIEM can save organizations time and money by providing consistent, reusable, and repeatable data terms, definitions, and processes.
+NIEM enables information sharing by focusing on information exchanges between organizations. NIEM can save organizations time and money by providing consistent, reusable, and repeatable data terms, definitions, and processes.
 
-The benefits of this implementation approach are agility, scalability, and cost efficiency through the leveraging of existing investments including legacy systems, and the reuse of information sharing assets.  This approach enables service reuse and allows the use of the resulting services as enterprise assets, which has the potential of additional exponential cost savings as existing services are leveraged for new exchanges or tasks through reuse.
+The benefits of this implementation approach are agility, scalability, and cost efficiency through the leveraging of existing investments including legacy systems, and the reuse of information sharing assets. This approach enables service reuse and allows the use of the resulting services as enterprise assets, which has the potential of additional exponential cost savings as existing services are leveraged for new exchanges or tasks through reuse.
 
-OASIS is a recognized standardized development organization (SDO) with lots of contributors worldwide.  The collaboration with OASIS allows for the expansion into international markets.  This partnership creates a path for a larger pool of stakeholders and developers to contribute to the project and broaden the content, which ultimately benefits current and future stakeholders.
+OASIS is a recognized standardized development organization (SDO) with lots of contributors worldwide. The collaboration with OASIS allows for the expansion into international markets. This partnership creates a path for a larger pool of stakeholders and developers to contribute to the project and broaden the content, which ultimately benefits current and future stakeholders.
       
 **Stakeholders**
 
@@ -65,9 +67,9 @@ Below is a non-exhaustive list of stakeholders with examples of just some of the
 
 ## 5. Normative Scope 
 
-The NIEM project provides the data model, managed processes, tools, training, harmonization, and technical assistance.  The project develops guidance to design standardized data elements.   These standardized data elements are defined so that the terms are commonly understood across domains.  NIEM specifications provide rules and guidance in order to design consistent and well-defined information exchanges.
+The NIEM project provides the data model, managed processes, tools, training, harmonization, and technical assistance. The project develops guidance to design standardized data elements. These standardized data elements are defined so that the terms are commonly understood across domains. NIEM specifications provide rules and guidance in order to design consistent and well-defined information exchanges.
 
-NIEM will improve the data model by making it more accessible to end users and the communities of interests, by focusing on efforts that make the NIEM infrastructure and its components more technology neutral. NIEM will leverage the work of the Common Model Format and Metamodel to reengineer a model that creates XML, JSON, or any other data serialization that NIEM supports and allows the data to be expressed in any supported serialization. This body of work will eliminate the need to first develop the work in XML and then move it another format. 
+NIEM will improve the data model by making it more accessible to end users and the communities of interests, by focusing on efforts that make the NIEM infrastructure and its components more technology neutral. NIEM will leverage the work of the Common Model Format and Metamodel to reengineer a model that creates XML, JSON, or any other data serialization that NIEM supports and allows the data to be expressed in any supported serialization. This body of work will eliminate the need to first develop the work in XML and then move it another format.
       
 ## 6. Relationship to Other Projects
 
@@ -118,23 +120,24 @@ FY 2024 – Initial NIEM OASIS Open Standards
 
 ## 8. Initial Contributions from Existing Work
 
-The full body of work specifying, explaining, and supporting the NIEM family of specifications under the current DoD?sponsored and GTRI coordinated efforts will be transitioned to OASIS, including:
-
-- Specifications for all NIEM releases
-  - NIEM Naming and Design Rules (NDR)
-  - NIEM JavaScript Object Notation (JSON)
-  - NIEM Code Lists Specifications 
-  - NIEM Conformance Targets Attribute Specification v3.0
-  - NIEM Information Exchange Package Documentation (IEPD) Specification 
-  - NIEM Conformance Specification
-  - Metamodel
-  - The Common Model Format (CMF)
-- All intellectual Property - The OASIS IPR policies for Open Projects will apply. This process allows projects to choose any one of several open-source licenses. With a mature regime governing NIEM for many years, we do not anticipate any conflicts around IPR.
-- NIEM Owned Tools
-  - Information Exchange Lifecycle Tools
-  - ConTesA
-  - SSGT
-  - Migration Tool
-  - NIEM API
-- NIEM Brand
-- NIEM website
+The full body of work specifying, explaining, and supporting the NIEM family of specifications under the current DoD‐sponsored and GTRI coordinated efforts will be transitioned to OASIS, including:
+− Specifications for all NIEM releases
+  − NIEM Naming and Design Rules (NDR)
+  − NIEM JavaScript Object Notation (JSON)
+  − NIEM Code Lists Specifications
+  − NIEM Conformance Targets Attribute Specification v3.0
+  − NIEM Information Exchange Package Documentation (IEPD) Specification
+  − NIEM Conformance Specification
+  − Metamodel
+  − The Common Model Format (CMF)
+− All intellectual Property - The [OASIS IPR policies for Open Projects](https://www.oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licenses) will apply. This process allows projects to choose any one of several open-source licenses. With a mature regime governing NIEM for many years, we do not anticipate any conflicts around IPR.
+− NIEM User Tools
+  − Information Exchange Lifecycle Tools
+  − ConTesA functionality
+  − SSGT functionality
+  − Migration Tool functionality
+  − NIEM API
+  − MEP Builder Tool
+  − NIEM Brand
+  − [NIEM.gov website](https://niem.gov)
+  − [NIEMOpen.org website](https://niemopen.org)
