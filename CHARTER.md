@@ -106,15 +106,15 @@ The migration from the legacy NIEM governance model to an OASIS Open Project wil
 
 FY 2022 Preparation (Governance, Marketing & Development)
 - Draft Charter & Governance
-- Awareness Campaign
-- Domain Stewardship Transition Workshop
-- Project Governance Board Sponsorship
-- Marking & Development
+- Awareness Campaign
+- Domain Stewardship Transition Workshop
+- Project Governance Board Sponsorship
+- Marking & Development
 FY 2023 Formal Transition (Shadow & Reverse Shadow)
-- OASIS NIEM Committee Membership
-- Shadow NIEM OASIS PGB
-- Selected projects transferred
-- Intellectual capital transfer
+- OASIS NIEM Committee Membership
+- Shadow NIEM OASIS PGB
+- Selected projects transferred
+- Intellectual capital transfer
 - Final ESC Turnover
 FY 2024 Initial NIEM OASIS Open Standards
 
