@@ -12,6 +12,5 @@ OASIS Open and NIEMOpen thank the following organizations who generously support
 * [US Department of Homeland Security Science and Technology](https://www.dhs.gov/science-and-technology)
 * [US Department of Transportation](https://www.transportation.gov/)
 * [NAJIS (National Assoc. for Justice Information Systems)](https://www.najis.org/) (US)
-* [sFractal Consulting LLC](https://www.sfractal.com/)
 * [Commonwealth of Virginia - Office of Data Governance & Analytics](https://www.odga.virginia.gov/)
 * [Criminal Justice Information Services (CJIS) Division, Federal Bureau of Investigation](https://www.fbi.gov/services/cjis)
