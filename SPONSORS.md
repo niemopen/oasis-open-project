@@ -5,7 +5,6 @@
 
 OASIS Open and NIEMOpen thank the following organizations who generously support the work, funding the development of the interoperability standards and open source tools that their organizations and customers depend on.  
 
-* [Equivant](https://www.equivant.com/)
 * [Georgia Tech Research Institute](https://gtri.gatech.edu/)
 * [IJIS Institute](https://ijis.org/) 
 * [Joint Staff JS-J6 Command, Control, Communication, & Computers/Cyber (US)](https://www.jcs.mil/Directorates/J6-C4-Cyber/)
