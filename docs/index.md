@@ -1,4 +1,4 @@
-<img src="https://github.com/niemopen/oasis-open-project/blob/main/artwork/NIEM-NO-Logo-v5.png" width="300">
+<img src="/artwork/NIEM-NO-Logo-v5.png" width="300">
 
 <h1>NIEMOpen OASIS Open Project Governing Board (PGB)</h1>
 
