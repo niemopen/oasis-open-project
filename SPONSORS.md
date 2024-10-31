@@ -10,7 +10,7 @@ Organizations marked with a &bigtriangledown; symbol support NIEMOpen as a premi
 * [Georgia Tech Research Institute](https://gtri.gatech.edu/) &bigstar;
 * [IJIS Institute](https://ijis.org/) &bigstar;
 * [Joint Staff JS-J6 Command, Control, Communication, & Computers/Cyber (US)](https://www.jcs.mil/Directorates/J6-C4-Cyber/) &bigtriangledown; &bigstar;
-* [US Bureau of Justice Statistics](https://bjs.ojp.gov/)
+* [US Bureau of Justice Statistics](https://bjs.ojp.gov/) &bigstar;
 * [US Department of Homeland Security Science and Technology](https://www.dhs.gov/science-and-technology) &bigtriangledown; &bigstar;
 * [US Department of Transportation](https://www.transportation.gov/) &bigstar;
 * [NAJIS (National Assoc. for Justice Information Systems)](https://www.najis.org/) (US) &bigstar;
