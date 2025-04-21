@@ -7,7 +7,7 @@ OASIS Open and NIEMOpen thank the following organizations who generously support
 
 Organizations marked with a &bigtriangledown; symbol support NIEMOpen as a premier sponsor. Organizations marked with &bigstar; have signed the entity contributor license agreement.
 
-* [All Purpose Networks](https://allpurposenetworks.com/)
+* [All Purpose Networks](https://allpurposenetworks.com/) &bigstar;
 * [Georgia Tech Research Institute](https://gtri.gatech.edu/) &bigstar;
 * [IJIS Institute](https://ijis.org/) &bigstar;
 * [Joint Staff JS-J6 Command, Control, Communication, & Computers/Cyber (US)](https://www.jcs.mil/Directorates/J6-C4-Cyber/) &bigtriangledown; &bigstar;
