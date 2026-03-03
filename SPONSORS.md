@@ -11,6 +11,5 @@ Organizations marked with a &bigtriangledown; symbol support NIEMOpen as a premi
 * [IJIS Institute](https://ijis.org/) &bigstar;
 * [US Department of Homeland Security Science and Technology](https://www.dhs.gov/science-and-technology) &bigtriangledown; &bigstar;
 * [NAJIS (National Assoc. for Justice Information Systems)](https://www.najis.org/) (US) &bigstar;
-* [National Institute of Justice](https://nij.ojp.gov/) &bigstar;
 * [Criminal Justice Information Services (CJIS) Division, Federal Bureau of Investigation](https://www.fbi.gov/services/cjis) &bigtriangledown; &bigstar;
 * [Senzing](https://senzing.com/)&bigstar;
