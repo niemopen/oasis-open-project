@@ -12,6 +12,7 @@ PGB members include representatives of sponsor organizations and representatives
 - **NAJIS (National Association for Justice Information Systems)** - Tom Welch 
 - **Criminal Justice Information Services (CJIS) Division, Federal Bureau of Investigation** - April Mitchell
 - **Senzing** - Jeff Butcher
+- **SEARCH** - Yogesh Chawla
 - **NBAC Voting Rep** - Thomas Krul
 - **NTAC Voting Rep** - Jim Cabral
 
