@@ -14,3 +14,4 @@ Organizations marked with a &bigtriangledown; symbol support NIEMOpen as a premi
 * [Criminal Justice Information Services (CJIS) Division, Federal Bureau of Investigation](https://www.fbi.gov/services/cjis) &bigtriangledown; &bigstar;
 * [Senzing](https://senzing.com/)&bigstar;
 * [SEARCH](https://www.search.org/)&bigstar;
+* [Bright Query](https://www.brightquery.com/)&bigstar;
