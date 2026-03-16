@@ -13,6 +13,7 @@ PGB members include representatives of sponsor organizations and representatives
 - **Criminal Justice Information Services (CJIS) Division, Federal Bureau of Investigation** - April Mitchell
 - **Senzing** - Jeff Butcher
 - **SEARCH** - Yogesh Chawla
+- **Bright Query** - Jose Plehn 
 - **NBAC Voting Rep** - Thomas Krul
 - **NTAC Voting Rep** - Jim Cabral
 
