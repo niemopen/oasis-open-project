@@ -6,7 +6,7 @@ The Project Governing Board (PGB) sets overall strategic direction for NIEM Open
 
 PGB members include representatives of sponsor organizations and representatives from the community at-large who represent the Technical Steering Committee (TSC).  
 
-- **Georgia Tech Research Institute** - Mark Dodson
+- **Georgia Tech Research Institute** - Mark Dotson
 - **IJIS Institute** - Paul Wormeli 
 - **US Department of Homeland Security Science and Technology** - Christina Bapst Stump
 - **NAJIS (National Association for Justice Information Systems)** - Tom Welch 
